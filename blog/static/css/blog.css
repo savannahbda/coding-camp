@@ -1,6 +1,7 @@
 .page-header {
     background-color:aquamarine;
     margin-top: 0;
+    margin-bottom: 0;
     padding: 20px 20px 20px 40px;
 }
 
@@ -12,6 +13,10 @@
 
 .content {
     margin-left: 40px;
+}
+
+.page {
+    background-color:#d34f97;
 }
 
 h1, h2, h3, h4 {
@@ -39,7 +44,6 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
-    columns: #d4026c;
 }
 
 .post h1 a, .post h1 a:visited {
